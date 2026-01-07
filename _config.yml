@@ -1,0 +1,43 @@
+title: Graham Roberts 
+description: Ph.D. in Machine Learning
+baseurl: ""
+url: https://piazzai.github.io/cvless
+
+theme: cvless
+
+# site settings
+taglong: Ph.D. in Machine Learning
+tagshort: Ph.D. in Machine Learning
+
+# author settings
+author:
+  name: Graham Roberts
+  email: grahamrobertsw@gmail.com
+photo: assets/files/headshot.jpg
+address: Renton WA
+phone: +1 (406) 570-8114
+
+# profile links
+profile:
+  linkedin: https://www.linkedin.com/in/graham-w-roberts
+  github: https://github.com/GrahamRobertsW
+  cv: true
+
+# build settings
+permalink: pretty
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  
