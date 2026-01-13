@@ -7,12 +7,9 @@ title: Home
 
 An expert in machine learning (ML) and artificial intelligence, particularly in incorporating ML into data anlysis workflows.
 
-This is the home page. It can be used for a short introduction. [Click here](cv) to see the full CV, and [here](assets/files/cv.pdf) to download a print version. The theme also ships with a blog: [click here](posts) to scroll posts from the most recent. Finally, [click here](404) to see a page that can't be found.
+I have skills developing several machine learning models, ranging from extensive experience with lightweight classical models such as support vector machines and random forests to more recent developments such as active learning and reinforcement learning. [Click here](cv) to see the full CV, and [here](assets/files/cv.pdf) to download a print version. I completed my Ph.D. at the University of Connecticut in 2025. My specialization is in machine learning for tasks specialized to physical sciences. My first majot project was a semantic segmentation model for classifying defects in microscopy images of steel. Following that project I developed a workflow for automatic analysis of Small Angle Scattering data. This utilized a customized hierarchical decision comprised of independent trained and tuned support vector classifiers. Additionally I developed a technique for symbolic regression of implicit equations made possible with a probabilistic representation of each candidate equation.
 
-By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
+My specialties are based around building efficient tools specified to the task at hand. 
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
 
-{% include archive.html %}
