@@ -3,7 +3,7 @@ description: Ph.D. in Machine Learning
 baseurl: ""
 url: https://piazzai.github.io/cvless
 
-theme: cvless
+remote_theme: https://piazzai.github.io/cvless
 
 # site settings
 taglong: Ph.D. in Machine Learning
@@ -13,7 +13,7 @@ tagshort: Ph.D. in Machine Learning
 author:
   name: Graham Roberts
   email: grahamrobertsw@gmail.com
-photo: assets/files/headshot.jpg
+photo: assets/files/headshot_trimmed.png
 address: Renton WA
 phone: +1 (406) 570-8114
 

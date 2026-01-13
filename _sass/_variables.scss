@@ -6,13 +6,13 @@
   --type-weight: 400;
   --type-height: 1.4;
   --type-numeric: oldstyle-nums proportional-nums;
-  --color-particles-text: var(--oc-teal-1);
-  --color-particles-background: var(--oc-teal-9);
+  --color-particles-text: var(--cust-light-green);
+  --color-particles-background: var(--cust-brown);
 }
 
 html,
 html[data-theme="light"] {
-  --color-background: var(--oc-teal-1);
+  --color-background: var(--cust-brown);
   --color-text: var(--oc-teal-8);
   --color-heading: var(--oc-teal-8);
   --color-link: var(--oc-blue-8);
